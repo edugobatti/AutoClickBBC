@@ -1,22 +1,20 @@
 <h1>AutoClickBBC</h1>
-
+<h2>Novo bot auto click multijanelas</h2>
 <b>O mesmo possui codigo aberto para auditoria ou alterações</b> <br>
 <b>Linkdin: Eduardo Gobatti</b><br>
 <b>Insta: @titio_satanas</b>
 
-
 <h3>Aquela ajudinha de sempre <b>0x8d52ab1C7c6C8aB85293cCcDDDEf1E116c2152Ea</b></h3>
 
-<h2>Novo bot auto click multijanelas</h2>
 
-<p><b>Requisitos:</b></p>
+
+<h2>Requisitos:</h2>
 <p>Windows 10, 11, Server2006 R2</p>
 <p>Google Chrome</p>
 <p>Pacote python instalado  ( https://www.python.org/ )</p>
 <p>Resolução maxima da tela para executar 1920x1080</p>
 <br>
-<h3>Primeiros passos</h3>
-<br>
+<h2>Primeiros passos</h2>
 <p>1 - Instalar o python no computador ( https://www.python.org/ )</p>
 <p>2 - Após a instalação do python clique no arquivo "instalar.bat", o mesmo executa o comando do pip (gerenciador de pacote python) para instalar os pacotes do requirements.txt</p>
 <p>3 - Abra o(os) navegador(es) Google Chrome (funciona apenas nele) e logue nas suas contas da metamask</p>
