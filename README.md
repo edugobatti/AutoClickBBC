@@ -1,4 +1,4 @@
-<h1>AutoClickBBC<h1>
+<h1>AutoClickBBC</h1>
 
 <b>O mesmo possui codigo aberto para auditoria ou alterações</b> <br>
 <b>Linkdin: Eduardo Gobatti</b><br>
