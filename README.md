@@ -7,7 +7,7 @@
 <b>Insta: @titio_satanas</b>
 
 
-<h3>Aquela ajudinha de sempre <b></b></h3>
+<h3>Aquela ajudinha de sempre <b>0x8d52ab1C7c6C8aB85293cCcDDDEf1E116c2152Ea</b></h3>
 
 <h1>Novo bot auto click multijanelas</h1>
 
