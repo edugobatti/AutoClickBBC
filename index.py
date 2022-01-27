@@ -18,30 +18,7 @@ import yaml
 
 
 cat = """
-                                                _
-
->>---> Bot iniciado! Vamos farmar!
-                                 ,        ,
-                                /(        )`
-                                \ \___   / |
-                                /- _  `-/  '
-                               (/\/ \ \   /\
-                               / /   | `    \
-                               O O   ) /    |
-                               `-^--'`<     '
-                              (_.)  _  )   /
-                               `.___/`    /
-                                  `-----' /
-AutoClickBBC        <----.     __ / __   \
-                    <----|====O)))==) \) /====
-                    <----'    `--' `.__,' \
-                                 |        |
-                                  \       /
-                             ______( (_  / \______
-                           ,'  ,-----'   |        \
-                           `--{__________)        \/
-                            @titio_satanas
->>---> Pressione ctrl + c para parar o bot.
+Bot iniciado! Vamos farmar!
 """
 
 
@@ -57,7 +34,7 @@ ct = c['threshold']
 ch = c['home']
 
 if not ch['enable']:
-    print('>>---> xii, não tenho casa! :(  ')
+    print('Pressione ctrl + c para parar o bot.')
 print('\n')
 
 pause = c['time_intervals']['interval_between_moviments']
